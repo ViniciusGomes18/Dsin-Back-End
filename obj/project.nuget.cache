@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1VU/1kr1gg=",
+  "dgSpecHash": "Ax48dssgZUw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guerra\\Downloads\\Dsin-Back-End-main\\DSIN.csproj",
+  "projectFilePath": "C:\\Users\\Guerra\\Desktop\\Conversor-de-talao-manual-Back-end--main\\DSIN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guerra\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Guerra\\.nuget\\packages\\confluent.kafka\\2.12.0\\confluent.kafka.2.12.0.nupkg.sha512",
