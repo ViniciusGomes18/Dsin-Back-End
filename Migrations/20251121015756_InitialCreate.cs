@@ -70,7 +70,7 @@ namespace DSIN.Migrations
                     OccurredAt = table.Column<DateTimeOffset>(type: "timestamp with time zone", nullable: false),
 
                     Location = table.Column<string>(type: "character varying(200)", maxLength: 200, nullable: true),
-                    TicketImageBase64 = table.Column<string>(type: "character varying(200)", maxLength: 200, nullable: true)
+                    TicketImageBase64 = table.Column<string>(type: "character varying(200)", maxLength: 200, nullable: true),
  
                     Location = table.Column<string>(type: "character varying(200)", maxLength: 200, nullable: true)
                 },
